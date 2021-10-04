@@ -1,4 +1,41 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color: black;
+    font-family: arial;
+    color: white;
+}
 
+h1 {
+    color: grey;
+    font-family: Verdana;
+    text-align: center;
+}
 
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 484px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+.subdiv {
+    margin: auto;
+    padding-left: 18%;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#principal {
+    margin-left: 50px;
+}
+
+#rate {
+    margin-left: 13px;
+}
+
+#years {
+    margin-left: 20px;
+}
